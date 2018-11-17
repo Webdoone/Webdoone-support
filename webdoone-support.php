@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       Webdoone Support
  * Plugin URI:        http://webdoone.com/support
- * Description:       Support ticket system for themes or plugin authors
+ * Description:       Webdoone Support ticket system for themes or plugin authors
  * Version:           1.0.0
  * Author:            Webdoone
  * Author URI:        http://webdoone.com
